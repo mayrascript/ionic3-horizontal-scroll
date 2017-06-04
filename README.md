@@ -1,3 +1,7 @@
+#ionic3-horizontal-scroll
+
+###About 
+
 This is a ionic3 example for do horizontal scroll using a Jquery library mobile friendly.
 
 Example:
